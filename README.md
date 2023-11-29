@@ -1,9 +1,9 @@
 # Reaktor-Bench
-Tools used on my bench--reaktor 5 ensembles and instruments 
+Tools used on my bench--Native instruments reaktor 5 ensembles and instruments 
 
-Requires a DC coupled I/O module such as expert sleepers ES3, ES6, and/or ES8.
+Requires a DC coupled I/O module such as expert sleepers ES3, ES6, and/or ES8 and a MIDI interface.
 
-Might be useful for anyone else who owns Reaktor 5 or 6 and uses it to generate test signals as part of their workflow.
+Might be useful for anyone else who owns Reaktor 5 or 6 and uses Reaktor to generate test signals as part of their workflow.
 
 Otherwise, probably of no use to you.
 
